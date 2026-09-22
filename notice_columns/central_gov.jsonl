@@ -1,5 +1,3 @@
-# 中国政府网（gov.cn）通知/政策类栏目
-# 格式：{"site": 站点名, "column": 栏目名, "url": 栏目页URL, "encoding": 编码, "rss": RSS地址或null}
 {"site": "中国政府网", "column": "政策文件", "url": "https://www.gov.cn/zhengce/zhengcewenjian/", "encoding": "utf-8", "rss": null}
 {"site": "中国政府网", "column": "最新", "url": "https://www.gov.cn/zuixin/", "encoding": "utf-8", "rss": null}
 {"site": "中国政府网", "column": "国务院文件", "url": "https://www.gov.cn/zhengce/guowuyuanwenjian/", "encoding": "utf-8", "rss": null}

@@ -1,6 +1,3 @@
-# 中央政府及组成部门、直属机构、部委管理国家局首页
-# 格式：每行一个 JSON 对象
-# 字段：{"name": 站名, "url": 首页URL, "category": 机构类别}
 {"name": "中国政府网（国务院）", "url": "https://www.gov.cn", "category": "国务院门户"}
 {"name": "外交部", "url": "https://www.mfa.gov.cn", "category": "国务院组成部门"}
 {"name": "国家发展和改革委员会", "url": "https://www.ndrc.gov.cn", "category": "国务院组成部门"}
