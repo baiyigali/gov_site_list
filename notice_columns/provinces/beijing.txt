@@ -1,0 +1,3 @@
+# 北京市人民政府 政策文件栏目
+{"site": "北京市人民政府", "column": "政策文件", "url": "https://www.beijing.gov.cn/zwgk/zcfg/", "encoding": "utf-8", "rss": null}
+{"site": "北京市人民政府", "column": "通知公告", "url": "https://www.beijing.gov.cn/zwgk/tzgg/", "encoding": "utf-8", "rss": null}

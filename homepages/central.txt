@@ -1,0 +1,47 @@
+# 中央政府及组成部门、直属机构、部委管理国家局首页
+# 格式：每行一个 JSON 对象
+# 字段：{"name": 站名, "url": 首页URL, "category": 机构类别}
+{"name": "中国政府网（国务院）", "url": "https://www.gov.cn", "category": "国务院门户"}
+{"name": "外交部", "url": "https://www.mfa.gov.cn", "category": "国务院组成部门"}
+{"name": "国家发展和改革委员会", "url": "https://www.ndrc.gov.cn", "category": "国务院组成部门"}
+{"name": "教育部", "url": "https://www.moe.gov.cn", "category": "国务院组成部门"}
+{"name": "科学技术部", "url": "https://www.most.gov.cn", "category": "国务院组成部门"}
+{"name": "工业和信息化部", "url": "https://www.miit.gov.cn", "category": "国务院组成部门"}
+{"name": "国家民族事务委员会", "url": "https://www.neac.gov.cn", "category": "国务院组成部门"}
+{"name": "公安部", "url": "https://www.mps.gov.cn", "category": "国务院组成部门"}
+{"name": "民政部", "url": "https://www.mca.gov.cn", "category": "国务院组成部门"}
+{"name": "司法部", "url": "https://www.moj.gov.cn", "category": "国务院组成部门"}
+{"name": "财政部", "url": "https://www.mof.gov.cn", "category": "国务院组成部门"}
+{"name": "人力资源和社会保障部", "url": "https://www.mohrss.gov.cn", "category": "国务院组成部门"}
+{"name": "自然资源部", "url": "https://www.mnr.gov.cn", "category": "国务院组成部门"}
+{"name": "生态环境部", "url": "https://www.mee.gov.cn", "category": "国务院组成部门"}
+{"name": "住房和城乡建设部", "url": "https://www.mohurd.gov.cn", "category": "国务院组成部门"}
+{"name": "交通运输部", "url": "https://www.mot.gov.cn", "category": "国务院组成部门"}
+{"name": "水利部", "url": "https://www.mwr.gov.cn", "category": "国务院组成部门"}
+{"name": "农业农村部", "url": "https://www.moa.gov.cn", "category": "国务院组成部门"}
+{"name": "商务部", "url": "https://www.mofcom.gov.cn", "category": "国务院组成部门"}
+{"name": "文化和旅游部", "url": "https://www.mct.gov.cn", "category": "国务院组成部门"}
+{"name": "国家卫生健康委员会", "url": "https://www.nhc.gov.cn", "category": "国务院组成部门"}
+{"name": "退役军人事务部", "url": "https://www.mva.gov.cn", "category": "国务院组成部门"}
+{"name": "应急管理部", "url": "https://www.mem.gov.cn", "category": "国务院组成部门"}
+{"name": "中国人民银行", "url": "https://www.pbc.gov.cn", "category": "国务院组成部门"}
+{"name": "审计署", "url": "https://www.audit.gov.cn", "category": "国务院组成部门"}
+{"name": "国务院国有资产监督管理委员会", "url": "https://www.sasac.gov.cn", "category": "直属特设机构"}
+{"name": "海关总署", "url": "https://www.customs.gov.cn", "category": "直属机构"}
+{"name": "国家税务总局", "url": "https://www.chinatax.gov.cn", "category": "直属机构"}
+{"name": "国家市场监督管理总局", "url": "https://www.samr.gov.cn", "category": "直属机构"}
+{"name": "国家金融监督管理总局", "url": "https://www.nfra.gov.cn", "category": "直属机构"}
+{"name": "中国证券监督管理委员会", "url": "https://www.csrc.gov.cn", "category": "直属机构"}
+{"name": "国家广播电视总局", "url": "https://www.nrta.gov.cn", "category": "直属机构"}
+{"name": "国家体育总局", "url": "https://www.sport.gov.cn", "category": "直属机构"}
+{"name": "国家统计局", "url": "https://www.stats.gov.cn", "category": "直属机构"}
+{"name": "国家医疗保障局", "url": "https://www.nhsa.gov.cn", "category": "直属机构"}
+{"name": "国家知识产权局", "url": "https://www.cnipa.gov.cn", "category": "部委管理国家局"}
+{"name": "国家林业和草原局", "url": "https://www.forestry.gov.cn", "category": "部委管理国家局"}
+{"name": "国家能源局", "url": "https://www.nea.gov.cn", "category": "部委管理国家局"}
+{"name": "国家邮政局", "url": "https://www.spb.gov.cn", "category": "部委管理国家局"}
+{"name": "国家铁路局", "url": "https://www.china-railway.gov.cn", "category": "部委管理国家局"}
+{"name": "中国民用航空局", "url": "https://www.caac.gov.cn", "category": "部委管理国家局"}
+{"name": "国家外汇管理局", "url": "https://www.safe.gov.cn", "category": "部委管理国家局"}
+{"name": "国家药品监督管理局", "url": "https://www.nmpa.gov.cn", "category": "部委管理国家局"}
+{"name": "国家数据局", "url": "https://www.nda.gov.cn", "category": "部委管理国家局"}
