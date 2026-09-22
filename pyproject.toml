@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gov-site-list"
+version = "0.1.0"
+description = "中国政府网站 URL 清单：中央机构、省级政府、垂直部委的首页与通知/政策栏目地址（静态数据）。"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "程序员白大力" },
+]
+keywords = ["gov", "china", "government", "website", "list", "url", "政策", "通知公告"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Internet :: WWW/HTTP",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/baiyigali/gov-site-list"
+Repository = "https://github.com/baiyigali/gov-site-list"
+
+[tool.setuptools]
+packages = ["gov_site_list"]
+
+[tool.setuptools.package-data]
+gov_site_list = [
+    "py.typed",
+    "data/**/*.jsonl",
+]
