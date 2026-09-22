@@ -1,7 +1,7 @@
 name: Build & Publish
 
 # 流程（与 wechat-publish 一致）：
-#   push 到 main / PR   -> 构建 + 发布到 TestPyPI（验证打包不污染正式版）
+#   push 到 main / PR   -> 构建 + 发布到 TestPyPI（官方测试源，验证打包不污染正式版）
 #   push tag v*         -> 构建 + 发布到正式 PyPI
 #   workflow_dispatch    -> 只构建，不发布
 #
